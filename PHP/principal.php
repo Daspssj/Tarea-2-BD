@@ -21,6 +21,6 @@
     </style>
 </head>
 <body>
-    <h1><?= 'Hola Diego 😎' ?></h1>
+    <h1><?= 'Hola Maig 😎' ?></h1>
 </body>
 </html>
